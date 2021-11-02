@@ -1,1 +1,2 @@
-# WACP
+# Wheat And Chessboard Problem
+
