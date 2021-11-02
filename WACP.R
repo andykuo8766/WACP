@@ -10,7 +10,7 @@ weight_gram
 weight_tons = weight_gram * 0.000001 # (0.000001 tonne = 1 gram)
 weight_tons
 
-# 2. Make a graph of ¡§number of wheat grains¡¨ vs. ¡§square number¡¨. Label both axes.
+# 2. Make a graph of "number of wheat grains" vs. "square number". Label both axes.
 plot (x = seq(1, 64, by=1), y = 2^(0:63),
       xlab = "square number",
       ylab = "number of wheat grains",
